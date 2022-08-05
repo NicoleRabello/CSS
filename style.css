@@ -1,0 +1,28 @@
+li {
+  color: green;
+}
+
+h1 {
+  color: white;
+  background-color: red;
+  border-color: yellow;
+  border-width: 8px;
+  border-top: dashed;
+  /*
+    ou
+    border: 2px dashed orange;
+  */
+}
+
+body {
+  background-color: grey;
+}
+
+body {
+  background-image: url(https://img.olhardigital.com.br/wp-content/uploads/2021/10/turismo-espacial-foto-1-imagem-generica-de-foguete-disparando-1000x450.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h4 {
+  color: white;
+}

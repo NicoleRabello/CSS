@@ -1,0 +1,20 @@
+p {
+  color: #008080;
+}
+
+.post-container {
+  background-color: #fffafa;
+  width: 70%;
+  height: 100%;
+  margin: 0px auto 0px auto;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.post-container div {
+  margin-left: 50px;
+  padding-top: 20px;
+  padding-left: 20px;
+}

@@ -1,0 +1,13 @@
+li a {
+  color: red;
+}
+
+/* tudo que vem depois do h1 */
+
+h1 + strong {
+  border: 4px dashed;
+}
+
+a[href="/recibo"] {
+  color: orange;
+}
